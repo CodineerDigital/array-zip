@@ -1,6 +1,6 @@
 {
   "name": "@codineerdigital/array-zip",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Zips two arrays together into an array of tuples",
   "main": "src/index.ts",
   "type": "module",
