@@ -2,6 +2,12 @@
 
 This function takes in two arrays `arr1` and `arr2`, and returns an array of tuples. The length of the returned array is the length of the shortest input array.
 
+## Installation
+
+```
+npm install @codineerdigital/array-zip
+```
+
 ## Example
 
 ```typescript
