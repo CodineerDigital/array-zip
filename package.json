@@ -1,7 +1,7 @@
 {
-  "name": "@codineerdigital/npm-package-template",
+  "name": "@codineerdigital/array-zip",
   "version": "1.0.0",
-  "description": "NPM package template with TypeScript",
+  "description": "Zips two arrays together into an array of tuples",
   "main": "src/index.ts",
   "type": "module",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/CodineerDigital/npm-package-template.git"
+    "url": "git+https://github.com/CodineerDigital/array-zip.git"
   },
   "author": "Codineer Digital",
   "license": "UNLICENSED",
   "bugs": {
-    "url": "https://github.com/CodineerDigital/npm-package-template/issues"
+    "url": "https://github.com/CodineerDigital/array-zip/issues"
   },
-  "homepage": "https://github.com/CodineerDigital/npm-package-template#readme",
+  "homepage": "https://github.com/CodineerDigital/array-zip#readme",
   "devDependencies": {
     "@types/jest": "^29.2.4",
     "jest": "^29.3.1",
